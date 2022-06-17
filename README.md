@@ -1,7 +1,9 @@
-# Livro de receitas
+# Livro de receitas :book:
 
 Olá! Bem vindo ao meu livro de receitas 
 
-- Strogonoff de frango
+##### **Receitas:** :cook:
+
+- Strogonoff de frango :chicken:
 
 
